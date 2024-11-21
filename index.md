@@ -61,7 +61,15 @@ Check out my latest blog posts:
 ---
 
 
+## Certifications
 
+| Certification                         | Issued By              | Year       |
+|---------------------------------------|------------------------|------------|
+| **Certified Data Scientist**          | DataCamp               | 2023       |
+| **AWS Certified Cloud Practitioner**  | Amazon Web Services    | 2022       |
+| **Machine Learning Specialization**   | Coursera (Stanford)    | 2021       |
+
+---
 ---
 
 ## Contact

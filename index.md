@@ -1,4 +1,4 @@
-# Welcome to My Homepage
+# Welcome to My portfolio
 
 Welcome to my personal homepage! Here you'll find information about me, my projects, and ways to connect.
 

@@ -12,6 +12,10 @@ Hello! I'm sandeep meena, a . I enjoy working on technical projects.
 - Always learning about improving technologies.
 
 
+#image 
+(image)[![image](https://github.com/user-attachments/assets/a0b15ab8-5329-4171-919e-3d803cc79389)
+]
+
 
 ---
 

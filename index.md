@@ -13,9 +13,9 @@ Hello! I'm sandeep meena, a . I enjoy working on technical projects.
 
 
 #image 
-(image)[hello.png]
 
 
+![image](https://www.pexels.com/photo/green-and-blue-peacock-feather-674010/)
 
 ---
 

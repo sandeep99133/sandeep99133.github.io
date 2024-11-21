@@ -39,11 +39,28 @@ Here are some of the projects I've worked on:
 ---
 
 ## Blog
-Check out my latest posts:
+Check out my latest blog posts:
 
-- [Blog Post 1](#) - *Published on [1/1/2025]*
-- [Blog Post 2](#) - *Published on [1/1/2025]*
-- [Blog Post 3](#) - *Published on [1/1/2025]*
+- [**How Machine Learning is Shaping the Future**](#) – *Published on [1/1/24]*  
+- [**Top 10 Productivity Tools for Developers**](#) – *Published on [1/1/24]*  
+- [**Understanding Neural Networks in Simple Terms**](#) – *Published on [1/1/24]*  
+
+---
+
+
+---
+
+## Interests & Hobbies
+
+- **💻 Technology**: Exploring new programming languages and frameworks.
+- **📷 Photography**: Capturing landscapes and moments.
+- **🏔️ Hiking**: Adventure seeker who loves climbing mountains.
+- **🎮 Gaming**: Avid gamer with a love for strategy and RPG games.
+- **📖 Reading**: Books on self-improvement, tech, and science fiction.
+
+---
+
+
 
 ---
 

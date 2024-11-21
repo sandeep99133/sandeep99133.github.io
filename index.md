@@ -11,13 +11,11 @@ Hello! I'm sandeep meena, a . I enjoy working on technical projects.
 - Exploring the new opportunities of life.
 - Always learning about improving technologies.
 
+---
 
 #image 
+![hello](https://github.com/user-attachments/assets/a09ab473-8c51-43ff-be6b-41fd1c7d904f)
 
-
-![image](https://www.pexels.com/photo/green-and-blue-peacock-feather-674010/)
-
----
 
 ## Education
 
